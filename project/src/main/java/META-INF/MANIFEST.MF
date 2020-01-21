@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: fi.tuni.tamk.objectOrientedProgramming.shoppingListApp.Start
+ ShoppingList
+Class-Path: ./json-parser.jar
